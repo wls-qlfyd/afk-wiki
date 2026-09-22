@@ -4,7 +4,7 @@
 
 - 사이트: https://gopass2002.github.io/afk-wiki/
 - 빌드: GitHub Actions에서 Ruby/Bundler로 수행하는 Jekyll 빌드
-- 내용은 게임 공식 배포본(`https://afk.icecatgames.net/remote/`)에서 추출한 데이터를 정리한 것입니다.
+- 내용은 게임 공식 배포본(`https://afk.icecatgames.net/remote/`)에서 추출한 데이터를 정리한 것입니다
 
 ## 문서 구조
 
